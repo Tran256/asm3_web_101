@@ -1,0 +1,57 @@
+.text-overlay{
+    position: absolute;
+    margin-left: -12px;
+    margin-top: -35%;
+}
+
+.navsize a {
+  font-size: 10px;
+}
+
+.aboutop {
+  padding-top: 20px;
+}
+
+.bdt {
+
+}
+
+.nostylelist {
+  list-style-type: none;
+  p
+  
+}
+
+.dccontacts {
+  padding-left: 0;
+  margin-top: 20px;
+}
+
+.mright {
+  margin-right: 10px;
+}
+
+.mleft {
+  margin-left: 350px;
+}
+
+.topmargin-1 {
+  margin-top: -50px;
+}
+@media only screen and (max-width: 425px) {
+    #header {
+      background-color: white;
+    }
+}
+@media only screen and (min-width: 426px) {
+    #header {
+      background-color: lightblue;
+    }
+}
+@media (max-width: 1024px) {
+    .tn {
+      display: grid;
+    }
+}
+
+
